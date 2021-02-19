@@ -1,0 +1,3 @@
+The name pull request is confusing to some folks. “What exactly am I requesting to be pulled?” Good question. A pull request in GitHub is a request to the maintainer of a repository to pull in some code.
+
+When you write some code that you want to contribute to a repository, you create and submit a pull request. Your code contains some proposed changes to the target repository. A pull request is your way of offering these changes to the maintainer of the repository. It gives the repository maintainers an opportunity to review the changes and either accept them, reject them, or ask for more changes to be made.
